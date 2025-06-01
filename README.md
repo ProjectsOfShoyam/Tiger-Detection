@@ -125,19 +125,6 @@ This project demonstrates a full end-to-end machine learning workflow using mode
 - **Professional Results**: Production-quality model and application
 
 
-## 📁 Project Structure
-
-```
-tiger-detection-system/
-├── app.py                 # Main Streamlit application
-├── best_tiger.pt         # YOLOv8 trained model (not included)
-├── requirements.txt      # Python dependencies
-├── README.md            # Project documentation
-├── assets/              # Images and demo files
-│   ├── demo_video.mp4   # Sample video for testing
-│   └── screenshots/     # UI screenshots
-
-
 ## 🤝 Contributing
 
 We welcome contributions to improve the Tiger Detection System! Here's how you can help:
